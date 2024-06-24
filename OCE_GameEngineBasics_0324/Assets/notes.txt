@@ -1,0 +1,21 @@
+wichtige Mechanics/Bestandteile:
+
+- End of Level X
+- Hindernisse
+	- sprungfeld
+	- Objects die im Weg sind X
+		- starr X
+		- bewegbar/pushable X
+	- instant-death objects X
+	- speed boost strips X
+	- Portals
+	- Bewegende Plattformen/Objects X
+	- rotierende Objects X
+	- Canon
+
+- camera X
+- Level Blocks X
+- game over wenn runterfallen X
+
+weitere Mechanics/Bestandteile:
+- Menu
